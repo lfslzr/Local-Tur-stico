@@ -1,0 +1,25 @@
+.intro {
+  font-family: "Open Sans";
+  text-transform: uppercase;
+  font-size: small;
+  color: brown;
+  font-weight: bold;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-family: "Open Sans";
+  font-size: small;
+}
+
+figcaption {
+  font-family: "Open Sans";
+  font-size: small;
+  font-style: italic;
+  text-align: center;
+}
